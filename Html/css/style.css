@@ -1,0 +1,60 @@
+body{
+    background-color:darkseagreen;
+}
+
+h1{
+       background-color: aliceblue;
+       text-align: center;
+       border-style: solid;
+       border-top-right-radius: 40px;
+       border-top-left-radius: 40px;
+}
+
+.menu{
+    margin-top: 40px;
+    text-align: center;
+}
+
+.menuu{
+    margin: 200px;
+}
+
+    
+.imagen1{
+
+    text-align: center;
+    margin-top: 100px;
+
+}
+
+.Informacion{
+background-color: aliceblue;
+margin-left: 300px;
+margin-right: 300px ;
+margin-top: 100px;
+border-top-right-radius: 20px;
+border-top-left-radius: 20px;
+border-bottom-left-radius: 20px;
+border-bottom-right-radius: 20px;
+}
+
+.info{
+    margin-right: 15px;
+    text-align: center;
+   
+}
+
+.Imagen2{
+
+    text-align: center;
+}
+
+.imagen3{
+
+    text-align: center;
+}
+
+.imagen4{
+
+    text-align: center;
+}
